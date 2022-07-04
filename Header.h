@@ -1,0 +1,13 @@
+#pragma once
+#include <iostream>
+#include <string>
+#include "Figure.h"
+#include "Triangle.h"
+#include "Right_triangle.h"
+#include "Isosceles_triangle.h"
+#include "Equilateral_triangle.h"
+#include "Quadrangle.h"
+#include "Parallelogram.h"
+#include "Rectangle.h"
+#include "Square.h"
+#include "Rhombus.h"
