@@ -1,5 +1,6 @@
 #pragma once
-#include "IOHeader.h"
+#include <string>
+#include <iostream>
 
 class Figure
 {
